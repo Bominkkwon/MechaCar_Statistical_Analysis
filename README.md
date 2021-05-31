@@ -7,7 +7,7 @@
 * [Linear Regression to Predict MPG](#linear-regression-to-predict-mpg)
 * [Trip Analysis](#trip-analysis)
 * [T-Tests on Suspension Coils](#t-tests-on-suspension-coils)
-* [Study Design: MechaCar vs Competition](#study_design:_mechacar_vs_competition)
+* [Study Design MechaCar vs Competition](#study-design-mechacar-vs-competition)
 
 
 ## Project title
